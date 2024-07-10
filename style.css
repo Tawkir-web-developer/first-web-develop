@@ -29,3 +29,11 @@ background-position: center;
     color: rgb(13, 19, 33);
     
 }
+
+.button-style{
+background-color: rgb(13, 19, 33);
+color: rgb(255, 255, 255);
+text-decoration: aqua;
+width: 169px;
+height: 55px;
+}
