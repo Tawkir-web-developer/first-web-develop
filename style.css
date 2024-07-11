@@ -31,12 +31,12 @@ background-position: center;
 }
 
 .button-style{
-background-color: rgb(13, 19, 33);
-color: rgb(255, 255, 255);
-text-decoration: aqua;
-width: 169px;
-height: 55px;
-}
+    background-color: rgb(13, 19, 33);
+    color: rgb(255, 255, 255);
+    text-decoration: aqua;
+    width: 169px;
+    height: 55px;
+    }
 .main-two{
     margin: 80px, 97px, 80px, 97px;
 }
@@ -144,9 +144,10 @@ height: 55px;
     background-color: rgba(13, 19, 33, 0.03);
     border-radius: none;
     width: bold;
-    height: 90px;
+    height: 60px;
     width: 1200px;
 }
 .link-b{
     margin-top: 10px;
+    padding: 2px 4px 2px 4px;
 }
