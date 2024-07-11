@@ -33,9 +33,12 @@ background-position: center;
 .button-style{
     background-color: rgb(13, 19, 33);
     color: rgb(255, 255, 255);
-    text-decoration: aqua;
-    width: 169px;
-    height: 55px;
+    text-decoration: none;
+    margin: 20px 650px;
+    font-size: 19px;
+    justify-content: center;
+    width: 160px;
+    height: 50;
     }
 .main-two{
     margin: 80px, 97px, 80px, 97px;
@@ -150,4 +153,5 @@ background-position: center;
 .link-b{
     margin-top: 10px;
     padding: 2px 4px 2px 4px;
+
 }
