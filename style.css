@@ -82,3 +82,71 @@ height: 55px;
 .main-foure{
     text-align: center;
 }
+.mycurrentt{
+    font-size: 32px;
+    color: rgb(13, 19, 33);
+    text-align: center;
+    font-weight: bold;
+}
+.mycp{
+    font-size: 16px;
+    color: rgb(13, 19, 33);
+    text-align: center;
+}
+.title-five{
+    font-size: 24px;
+    color: rgb(13, 19, 33);
+}
+.five-p{
+    font-size: 16px;
+    color: rgb(13, 19, 33);
+}
+.href-five{
+    font-size: 16px;
+    color: rgb(13, 19, 33);
+    font-weight: bold
+}
+.img-five{
+    width: 39.68px;
+    height: 45px;
+}
+.five-main{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.target-one{
+    background-color: rgba(255, 76, 30, 0.05);
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;   
+}
+.target-two{
+    background-color: rgba(0, 76, 232, 0.05);
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+.target-three{
+    background-color: rgba(255, 223, 0, 0.05);
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+.final-title{
+    font-size: 20px;
+    color: rgb(13, 19, 33);
+}
+.foter-final{
+    display: flex;
+    justify-content: space-between;
+    margin: 32px 150px 32px 150px; 
+    background-color: rgba(13, 19, 33, 0.03);
+    border-radius: none;
+    width: bold;
+    height: 90px;
+    width: 1200px;
+}
+.link-b{
+    margin-top: 10px;
+}
